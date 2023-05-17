@@ -1,0 +1,35 @@
+.Her2sect{
+    display: flex;
+    justify-content: center;
+    background-color: #140D2D;
+    
+}
+
+.HerSec{
+    margin: auto;
+    align-items: center;
+    color: #FFFFFF;
+    
+    text-align: left;
+    padding-bottom: 80px;
+}
+.Image_acct{
+    display: flex;
+}
+.Image_text p{
+    margin: 0;
+    padding-left: 20px;
+    color: white;
+}
+#ca{
+    color: #8F85B2;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15px;
+}
+#cad{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+

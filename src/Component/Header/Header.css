@@ -1,0 +1,42 @@
+.Header{
+    background: #140D2D;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 450px;
+    /* width: 1440px; */
+}
+span{
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.navigation ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 20px;
+}
+.navigation ul li{
+    padding: 0 50px;
+    font-size: 24px; 
+    color: #ffffff;
+    border-radius: 6px;
+    font-weight: 500;
+}
+.navigation ul span{
+    padding: 15px 50px;
+    border-radius: 6px;
+    font-size: 24px; 
+    background-color: #ffffff;
+    color: #140D2D;
+    font-weight: 500;
+}
+#Login{
+    background-color: #fff;
+    color: #140D2D;
+    padding: 15px 35px;
+    border-radius: 6px;
+}

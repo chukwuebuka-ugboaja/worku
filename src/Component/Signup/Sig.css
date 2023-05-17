@@ -1,0 +1,21 @@
+.Signup_Hero_text{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px 0;
+    text-align: left;
+}
+.Signup_Heading_text h1{
+    color: #140D2D;
+    margin: 0;
+}
+p{
+    color: #140D2D;
+    font-size: 24px; 
+    line-height: 35px;
+    font-weight: 400;
+    margin-top: 10px;
+
+}
+.Signup_Heading_text button{
+    border: none !important;
+}
