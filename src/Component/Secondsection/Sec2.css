@@ -2,7 +2,10 @@
     display: flex;
     justify-content: center;
     color: #000000;
+    font-size: 100px;
+    font-weight: bolder;
+    line-height: 90px;
     text-align: left;
-    padding-bottom: 70px;
+    padding: 120px;
 }
 
